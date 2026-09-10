@@ -1,0 +1,4 @@
+data/
+rust/target/
+node_modules/
+*.log
